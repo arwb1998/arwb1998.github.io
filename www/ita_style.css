@@ -1,6 +1,6 @@
 @media screen and (min-width: 1024px) {
-    /*Menu*/
 
+    /*Menu*/
     .GlobalNavbarWrapper {
         background: white;
     }
@@ -57,7 +57,6 @@
         color: white;
     }
 
-
     a.MenusNavbarListItemLabel:hover,
     .MenusNavbarListItemLabel-Highlight {
         color: darkgray !important;
@@ -67,7 +66,6 @@
     .IsBigNavbar .MenusNavbarListItemLabel-Highlight {
         color: lightblue !important;
     }
-
 
     .MenusNavbarDesktopNavigationListSubmenuReversed .MenusCategoryTreeMenuTabulator {
         padding-right: 0;
@@ -179,8 +177,6 @@
     }
 
     /**/
-
-
     /*Category*/
     .MenusCategoryTreeMenuTabulator {
         width: 215px;
@@ -213,7 +209,6 @@
     }
 
     /* ABU */
-
     .CategoriesCategorySubCategoriesContainer {
         gap: 1em;
         padding: 1em;
@@ -289,7 +284,6 @@
 
     .ArticleListContainer {
         border-radius: 0.5em;
-
     }
 
     .GlobalSearchHeaderSelectorsItem .InputsSharedSelectorAnimatedListWrapper {
@@ -343,7 +337,6 @@
     }
 
     /* ABU */
-
     .CategoryTreeMenuTabulatorItemInner::after {
         display: none;
     }
@@ -363,10 +356,7 @@
     }
 
     /**/
-
-
     /*Footer*/
-
     .ComponentsFooterMenuContainer {
         gap: 1em;
     }
@@ -428,7 +418,6 @@
     .ComponentsFooterNewsletterWrapper.ComponentsFooterNewsletterWrapperWithoutLeft {
         margin-top: 100px !important;
     }
-
 }
 
 .GlobalNavbarMobileContainer {
